@@ -35,3 +35,19 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# --- 빌드/산출물 (정리 커밋에서 추가) ---
+build/
+out/
+target/
+bin/
+*.class
+*.exe
+*.o
+*.obj
+cmake-build-*/
+node_modules/
+.gradle/
+gradle-error.txt
+.DS_Store
+!gradle/wrapper/gradle-wrapper.jar
